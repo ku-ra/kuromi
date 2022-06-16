@@ -120,6 +120,7 @@ Distributed under the MIT License.
 ## Contact
 
 ku-ra - nuikex@gmail.com
+<br />
 janmey - info@jannikmeyer.com
 
 Project Link: [https://github.com/ku-ra/kuromi](https://github.com/ku-ra/kuromi)
