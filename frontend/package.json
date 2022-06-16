@@ -1,0 +1,41 @@
+{
+  "name": "kuromi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --ext .ts"
+  },
+  "dependencies": {
+    "@svgr/webpack": "^5.5.0",
+    "@tailwindcss/forms": "^0.3.3",
+    "@types/react": "17.0.9",
+    "autoprefixer": "^10.3.1",
+    "axios": "^0.21.1",
+    "postcss": "^8.3.5",
+    "react-query": "^3.18.1",
+    "tailwindcss": "^2.2.4",
+    "typescript": "4.3.2"
+    "css-what": "^5.0.1",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^5.5.0",
+    "@tailwindcss/forms": "^0.3.3",
+    "@types/react": "17.0.9",
+    "autoprefixer": "^10.3.1",
+    "axios": "^0.21.1",
+    "postcss": "^8.3.5",
+    "react-query": "^3.18.1",
+    "tailwindcss": "^2.2.4",
+    "typescript": "4.3.2"
+    "css-what": "^5.0.1",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
